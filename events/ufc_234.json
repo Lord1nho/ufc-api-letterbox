@@ -1,0 +1,228 @@
+{
+    "name": "UFC 234: Adesanya vs. Silva",
+    "date": "2019-02-10",
+    "location": "Melbourne\nAustralia",
+    "venue": "Rod Laver Arena",
+    "fights": [
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Israel Adesanya",
+                "ranking": "6",
+                "odds": "-770",
+                "link": "https://www.ufc.com.br/athlete/israel-adesanya",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Anderson Silva",
+                "ranking": "15",
+                "odds": "+470",
+                "link": "https://www.ufc.com.br/athlete/anderson-silva",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Lando Vannata",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/lando-vannata",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Marcos Rosa",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/marcos-rosa",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "4:55",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Rani Yahya",
+                "ranking": "15",
+                "odds": "+110",
+                "link": "https://www.ufc.com.br/athlete/rani-yahya",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ricky Simon",
+                "ranking": "Unranked",
+                "odds": "-140",
+                "link": "https://www.ufc.com.br/athlete/ricky-simon",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Montana De La Rosa",
+                "ranking": "14",
+                "odds": "-250",
+                "link": "https://www.ufc.com.br/athlete/montana-de-la-rosa",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Nadia Kassem",
+                "ranking": "Unranked",
+                "odds": "+200",
+                "link": "https://www.ufc.com.br/athlete/nadia-kassem",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "2:37",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Jimmy Crute",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jim-crute",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sam Alvey",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/sam-alvey",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "2:49",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Devonte Smith",
+                "ranking": "Unranked",
+                "odds": "-230",
+                "link": "https://www.ufc.com.br/athlete/devonte-smith",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Dong Hyun Ma",
+                "ranking": "Unranked",
+                "odds": "+190",
+                "link": "https://www.ufc.com.br/athlete/dong-hyun-ma",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "3:53",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Shane Young",
+                "ranking": "Unranked",
+                "odds": "-300",
+                "link": "https://www.ufc.com.br/athlete/shane-young",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Austin Arnett",
+                "ranking": "Unranked",
+                "odds": "+250",
+                "link": "https://www.ufc.com.br/athlete/austin-arnett",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Kai Kara-France",
+                "ranking": "Unranked",
+                "odds": "-290",
+                "link": "https://www.ufc.com.br/athlete/kai-kara-france",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Raulian Paiva",
+                "ranking": "Unranked",
+                "odds": "+240",
+                "link": "https://www.ufc.com.br/athlete/raulian-paiva",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Teruto Ishihara",
+                "ranking": "Unranked",
+                "odds": "+330",
+                "link": "https://www.ufc.com.br/athlete/teruto-ishihara",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Kyung Ho Kang",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/kyung-ho-kang",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "3:59",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Callan Potter",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/callan-potter",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Jalin Turner",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jalin-turner",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "0:53",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Wuliji Buren",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/wuliji-buren",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Jonathan Martinez",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jonathan-martinez",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "name": "UFC 316: Dvalishvili vs. O'Malley 2",
+    "date": "2025-06-07",
+    "location": "",
+    "venue": "Prudential Center",
+    "fights": [
+        {
+            "weightclass": "Peso-galo Disputa de Cin",
+            "red corner": {
+                "name": "Merab Dvalishvili",
+                "ranking": "",
+                "odds": "-325",
+                "link": "https://www.ufc.com.br/athlete/merab-dvalishvili",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sean O'Malley",
+                "ranking": "1",
+                "odds": "+260",
+                "link": "https://www.ufc.com.br/athlete/sean-omalley",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "4:42",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-galo feminino Disputa de Cin",
+            "red corner": {
+                "name": "Julianna Peña",
+                "ranking": "",
+                "odds": "+455",
+                "link": "https://www.ufc.com.br/athlete/julianna-pena",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Kayla Harrison",
+                "ranking": "2",
+                "odds": "-625",
+                "link": "https://www.ufc.com.br/athlete/kayla-harrison",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "4:55",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Kelvin Gastelum",
+                "ranking": "Unranked",
+                "odds": "+285",
+                "link": "https://www.ufc.com.br/athlete/kelvin-gastelum",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Joe Pyfer",
+                "ranking": "Unranked",
+                "odds": "-360",
+                "link": "https://www.ufc.com.br/athlete/joe-pyfer",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Mario Bautista",
+                "ranking": "10",
+                "odds": "+150",
+                "link": "https://www.ufc.com.br/athlete/mario-bautista",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Patchy Mix",
+                "ranking": "Unranked",
+                "odds": "-180",
+                "link": "https://www.ufc.com.br/athlete/patrick-mix",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Vicente Luque",
+                "ranking": "14",
+                "odds": "+154",
+                "link": "https://www.ufc.com.br/athlete/vicente-luque",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Kevin Holland",
+                "ranking": "Unranked",
+                "odds": "-185",
+                "link": "https://www.ufc.com.br/athlete/kevin-holland",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "1:03",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Bruno Silva",
+                "ranking": "12",
+                "odds": "+525",
+                "link": "https://www.ufc.com.br/athlete/bruno-silva",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Joshua Van",
+                "ranking": "14",
+                "odds": "-750",
+                "link": "https://www.ufc.com.br/athlete/joshua-van",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "4:01",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Azamat Murzakanov",
+                "ranking": "12",
+                "odds": "-700",
+                "link": "https://www.ufc.com.br/athlete/azamat-murzakanov",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Brendson Ribeiro",
+                "ranking": "Unranked",
+                "odds": "+500",
+                "link": "https://www.ufc.com.br/athlete/brendson-ribeiro",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "3:25",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pesado",
+            "red corner": {
+                "name": "Serghei Spivac",
+                "ranking": "7",
+                "odds": "-170",
+                "link": "https://www.ufc.com.br/athlete/sergey-spivak-0",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Waldo Cortes Acosta",
+                "ranking": "11",
+                "odds": "+142",
+                "link": "https://www.ufc.com.br/athlete/waldo-cortes-acosta",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Khaos Williams",
+                "ranking": "Unranked",
+                "odds": "-185",
+                "link": "https://www.ufc.com.br/athlete/khaos-williams",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Andreas Gustafsson",
+                "ranking": "Unranked",
+                "odds": "+154",
+                "link": "https://www.ufc.com.br/athlete/andreas-gustafsson",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Ariane da Silva",
+                "ranking": "13",
+                "odds": "+425",
+                "link": "https://www.ufc.com.br/athlete/ariane-lipski",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Wang Cong",
+                "ranking": "Unranked",
+                "odds": "-575",
+                "link": "https://www.ufc.com.br/athlete/wang-cong",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Jeka Saragih",
+                "ranking": "Unranked",
+                "odds": "+390",
+                "link": "https://www.ufc.com.br/athlete/jeka-saragih",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "JooSang Yoo",
+                "ranking": "Unranked",
+                "odds": "-520",
+                "link": "https://www.ufc.com.br/athlete/joo-sang-yoo",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "0:28",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Quillan Salkilld",
+                "ranking": "Unranked",
+                "odds": "-395",
+                "link": "https://www.ufc.com.br/athlete/quillan-salkilld",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Yanal Ashmoz",
+                "ranking": "Unranked",
+                "odds": "+310",
+                "link": "https://www.ufc.com.br/athlete/yanal-ashmoz",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "MarQuel Mederos",
+                "ranking": "Unranked",
+                "odds": "-148",
+                "link": "https://www.ufc.com.br/athlete/marquel-mederos",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Mark Choinski",
+                "ranking": "Unranked",
+                "odds": "+124",
+                "link": "https://www.ufc.com.br/athlete/mark-choinski",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "name": "UFC 304: Edwards vs. Muhammad",
+    "date": "2024-07-27",
+    "location": "Manchester\nUnited Kingdom",
+    "venue": "Co-op Live",
+    "fights": [
+        {
+            "weightclass": "Peso Meio-Médio Disputa de Cin",
+            "red corner": {
+                "name": "Leon Edwards",
+                "ranking": "",
+                "odds": "-250",
+                "link": "https://www.ufc.com.br/athlete/leon-edwards",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Belal Muhammad",
+                "ranking": "2",
+                "odds": "+205",
+                "link": "https://www.ufc.com.br/athlete/belal-muhammad",
+                "result": "Win"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pesado Cinturão Int",
+            "red corner": {
+                "name": "Tom Aspinall",
+                "ranking": "",
+                "odds": "-355",
+                "link": "https://www.ufc.com.br/athlete/tom-aspinall",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Curtis Blaydes",
+                "ranking": "4",
+                "odds": "+280",
+                "link": "https://www.ufc.com.br/athlete/curtis-blaydes",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "1:00",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "King Green",
+                "ranking": "15",
+                "odds": "-125",
+                "link": "https://www.ufc.com.br/athlete/bobby-green",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Paddy Pimblett",
+                "ranking": "Unranked",
+                "odds": "+105",
+                "link": "https://www.ufc.com.br/athlete/paddy-pimblett",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "3:22",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Christian Leroy Duncan",
+                "ranking": "Unranked",
+                "odds": "-142",
+                "link": "https://www.ufc.com.br/athlete/christian-leroy-duncan",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Gregory Rodrigues",
+                "ranking": "Unranked",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/gregory-rodrigues",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Arnold Allen",
+                "ranking": "6",
+                "odds": "-238",
+                "link": "https://www.ufc.com.br/athlete/arnold-allen",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Giga Chikadze",
+                "ranking": "10",
+                "odds": "+195",
+                "link": "https://www.ufc.com.br/athlete/giga-chikadze",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Nathaniel Wood",
+                "ranking": "Unranked",
+                "odds": "-425",
+                "link": "https://www.ufc.com.br/athlete/nathaniel-wood",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Daniel Pineda",
+                "ranking": "Unranked",
+                "odds": "+330",
+                "link": "https://www.ufc.com.br/athlete/daniel-pineda",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Molly McCann",
+                "ranking": "Unranked",
+                "odds": "-360",
+                "link": "https://www.ufc.com.br/athlete/molly-mccann",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Bruna Brasil",
+                "ranking": "Unranked",
+                "odds": "+285",
+                "link": "https://www.ufc.com.br/athlete/bruna-brasil",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Jake Hadley",
+                "ranking": "Unranked",
+                "odds": "-218",
+                "link": "https://www.ufc.com.br/athlete/jake-hadley",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Caolán Loughran",
+                "ranking": "Unranked",
+                "odds": "+180",
+                "link": "https://www.ufc.com.br/athlete/caolan-loughran",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Muhammad Mokaev",
+                "ranking": "6",
+                "odds": "-148",
+                "link": "https://www.ufc.com.br/athlete/muhammad-mokaev",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Manel Kape",
+                "ranking": "8",
+                "odds": "+124",
+                "link": "https://www.ufc.com.br/athlete/manel-kape",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Oban Elliott",
+                "ranking": "Unranked",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/oban-elliott",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Preston Parsons",
+                "ranking": "Unranked",
+                "odds": "-142",
+                "link": "https://www.ufc.com.br/athlete/preston-parsons",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Modestas Bukauskas",
+                "ranking": "Unranked",
+                "odds": "-155",
+                "link": "https://www.ufc.com.br/athlete/modestas-bukauskas",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Marcin Prachnio",
+                "ranking": "Unranked",
+                "odds": "+130",
+                "link": "https://www.ufc.com.br/athlete/marcin-prachnio",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "3:12",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Sam Patterson",
+                "ranking": "Unranked",
+                "odds": "-375",
+                "link": "https://www.ufc.com.br/athlete/sam-patterson",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Kiefer Crosbie",
+                "ranking": "Unranked",
+                "odds": "+295",
+                "link": "https://www.ufc.com.br/athlete/kiefer-crosbie",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "2:50",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-pesado",
+            "red corner": {
+                "name": "Mick Parkin",
+                "ranking": "Unranked",
+                "odds": "-278",
+                "link": "https://www.ufc.com.br/athlete/mick-parkin",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Lukasz Brzeski",
+                "ranking": "Unranked",
+                "odds": "+225",
+                "link": "https://www.ufc.com.br/athlete/lukasz-brzeski",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "3:23",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Shauna Bannon",
+                "ranking": "Unranked",
+                "odds": "+114",
+                "link": "https://www.ufc.com.br/athlete/shauna-bannon",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Alice Ardelean",
+                "ranking": "Unranked",
+                "odds": "-135",
+                "link": "https://www.ufc.com.br/athlete/alice-ardelean",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        }
+    ]
+}

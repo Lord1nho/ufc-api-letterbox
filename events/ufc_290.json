@@ -1,0 +1,268 @@
+{
+    "name": "UFC 290: Volkanovski vs. Rodriguez",
+    "date": "2023-07-08",
+    "location": "",
+    "venue": "T-Mobile Arena",
+    "fights": [
+        {
+            "weightclass": "Peso-pena Disputa de Cin",
+            "red corner": {
+                "name": "Alexander Volkanovski",
+                "ranking": "",
+                "odds": "1.22",
+                "link": "https://www.ufc.com.br/athlete/alexander-volkanovski",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Yair Rodriguez",
+                "ranking": "",
+                "odds": "4.40",
+                "link": "https://www.ufc.com.br/athlete/yair-rodriguez",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "4:19",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca Disputa de Cin",
+            "red corner": {
+                "name": "Brandon Moreno",
+                "ranking": "",
+                "odds": "1.55",
+                "link": "https://www.ufc.com.br/athlete/brandon-moreno",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Alexandre Pantoja",
+                "ranking": "2",
+                "odds": "2.46",
+                "link": "https://www.ufc.com.br/athlete/alexandre-pantoja",
+                "result": "Win"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Robert Whittaker",
+                "ranking": "2",
+                "odds": "1.25",
+                "link": "https://www.ufc.com.br/athlete/robert-whittaker",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Dricus Du Plessis",
+                "ranking": "5",
+                "odds": "4.00",
+                "link": "https://www.ufc.com.br/athlete/dricus-du-plessis",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "2:23",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Jalin Turner",
+                "ranking": "11",
+                "odds": "1.42",
+                "link": "https://www.ufc.com.br/athlete/jalin-turner",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Dan Hooker",
+                "ranking": "12",
+                "odds": "2.90",
+                "link": "https://www.ufc.com.br/athlete/dan-hooker",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Bo Nickal",
+                "ranking": "Unranked",
+                "odds": "1.07",
+                "link": "https://www.ufc.com.br/athlete/bo-nickal",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Val Woodburn",
+                "ranking": "Unranked",
+                "odds": "8.40",
+                "link": "https://www.ufc.com.br/athlete/val-woodburn",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "0:38",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Robbie Lawler",
+                "ranking": "Unranked",
+                "odds": "3.15",
+                "link": "https://www.ufc.com.br/athlete/robbie-lawler",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Niko Price",
+                "ranking": "Unranked",
+                "odds": "1.36",
+                "link": "https://www.ufc.com.br/athlete/niko-price",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "0:38",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Catchweight",
+            "red corner": {
+                "name": "Tatsuro Taira",
+                "ranking": "Unranked",
+                "odds": "-975",
+                "link": "https://www.ufc.com.br/athlete/tatsuro-taira",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Edgar Chairez",
+                "ranking": "Unranked",
+                "odds": "+675",
+                "link": "https://www.ufc.com.br/athlete/edgar-chairez",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Yazmin Jauregui",
+                "ranking": "Unranked",
+                "odds": "1.21",
+                "link": "https://www.ufc.com.br/athlete/yazmin-jauregui",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Denise Gomes",
+                "ranking": "Unranked",
+                "odds": "4.40",
+                "link": "https://www.ufc.com.br/athlete/denise-gomes",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "0:20",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Jimmy Crute",
+                "ranking": "14",
+                "odds": "1.94",
+                "link": "https://www.ufc.com.br/athlete/jim-crute",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Alonzo Menifield",
+                "ranking": "Unranked",
+                "odds": "1.87",
+                "link": "https://www.ufc.com.br/athlete/alonzo-menifield",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "1:55",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Vitor Petrino",
+                "ranking": "Unranked",
+                "odds": "1.39",
+                "link": "https://www.ufc.com.br/athlete/vitor-petrino",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Marcin Prachnio",
+                "ranking": "Unranked",
+                "odds": "3.05",
+                "link": "https://www.ufc.com.br/athlete/marcin-prachnio",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "3:42",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Cameron Saaiman",
+                "ranking": "Unranked",
+                "odds": "-585",
+                "link": "https://www.ufc.com.br/athlete/cameron-saaiman",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Terrence Mitchell",
+                "ranking": "Unranked",
+                "odds": "+420",
+                "link": "https://www.ufc.com.br/athlete/terrence-mitchell",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "3:10",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Shannon Ross",
+                "ranking": "Unranked",
+                "odds": "2.70",
+                "link": "https://www.ufc.com.br/athlete/shannon-ross",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Jesus Aguilar",
+                "ranking": "Unranked",
+                "odds": "1.47",
+                "link": "https://www.ufc.com.br/athlete/jesus-aguilar",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "0:17",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Kamuela Kirk",
+                "ranking": "Unranked",
+                "odds": "2.60",
+                "link": "https://www.ufc.com.br/athlete/kamuela-kirk",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Esteban Ribovics",
+                "ranking": "Unranked",
+                "odds": "1.50",
+                "link": "https://www.ufc.com.br/athlete/esteban-ribovics",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "name": "UFC 237: Namajunas vs. Andrade",
+    "date": "2019-05-11",
+    "location": "Rio de Janeiro\nBrazil",
+    "venue": "Farmasi Arena",
+    "fights": [
+        {
+            "weightclass": "Peso-palha feminino Disputa de Cin",
+            "red corner": {
+                "name": "Rose Namajunas",
+                "ranking": "14",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/rose-namajunas",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Jéssica Andrade",
+                "ranking": "1",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jessica-andrade",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "02:58",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Jared Cannonier",
+                "ranking": "10",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jared-cannonier",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Anderson Silva",
+                "ranking": "14",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/anderson-silva",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "04:48",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "José Aldo",
+                "ranking": "1",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jose-aldo",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Alexander Volkanovski",
+                "ranking": "4",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/alexander-volkanovski",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Thiago Alves",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/thiago-alves",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Laureano Staropoli",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/laureano-staropoli",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Irene Aldana",
+                "ranking": "11",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/irene-aldana",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Bethe Correia",
+                "ranking": "13",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/bethe-correia",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "03:24",
+            "method": "SUB"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Antonio Rogerio Nogueira",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/antonio-rogerio-nogueira",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ryan Spann",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/ryan-spann",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "02:07",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Thiago Moisés",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/thiago-moises",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Kurt Holobaugh",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/kurt-holobaugh",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Warlley Alves",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/warlley-alves",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sergio Moraes",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/sergio-moraes",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "04:13",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "BJ Penn",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/bj-penn",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Clay Guida",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/clay-guida",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Luana Carolina",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/luana-carolina",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Priscila Cachoeira",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/priscila-cachoeira",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Raoni Barcelos",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/raoni-barcelos",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Carlos Huachin",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/carlos-huachin",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "04:49",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Talita Bernardo",
+                "ranking": "15",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/talita-bernardo",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Viviane Araújo",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/viviane-araujo",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "00:48",
+            "method": "KO/TKO"
+        }
+    ]
+}

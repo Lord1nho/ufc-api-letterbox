@@ -1,0 +1,228 @@
+{
+    "name": "UFC 291: Poirier vs. Gaethje",
+    "date": "2023-07-29",
+    "location": "Salt Lake City\nUnited States",
+    "venue": "Delta Center",
+    "fights": [
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Dustin Poirier",
+                "ranking": "2",
+                "odds": "1.73",
+                "link": "https://www.ufc.com.br/athlete/dustin-poirier",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Justin Gaethje",
+                "ranking": "3",
+                "odds": "2.11",
+                "link": "https://www.ufc.com.br/athlete/justin-gaethje",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "1:00",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Jan Blachowicz",
+                "ranking": "3",
+                "odds": "1.81",
+                "link": "https://www.ufc.com.br/athlete/jan-blachowicz",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Alex Pereira",
+                "ranking": "2",
+                "odds": "2.01",
+                "link": "https://www.ufc.com.br/athlete/alex-pereira",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-pesado",
+            "red corner": {
+                "name": "Derrick Lewis",
+                "ranking": "10",
+                "odds": "2.09",
+                "link": "https://www.ufc.com.br/athlete/derrick-lewis",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Marcos Rogerio de Lima",
+                "ranking": "15",
+                "odds": "1.75",
+                "link": "https://www.ufc.com.br/athlete/marcos-rogerio-de-lima",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "0:33",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Tony Ferguson",
+                "ranking": "Unranked",
+                "odds": "3.60",
+                "link": "https://www.ufc.com.br/athlete/tony-ferguson",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "King Green",
+                "ranking": "Unranked",
+                "odds": "1.30",
+                "link": "https://www.ufc.com.br/athlete/bobby-green",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "4:54",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Michael Chiesa",
+                "ranking": "12",
+                "odds": "2.28",
+                "link": "https://www.ufc.com.br/athlete/michael-chiesa",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Kevin Holland",
+                "ranking": "Unranked",
+                "odds": "1.63",
+                "link": "https://www.ufc.com.br/athlete/kevin-holland",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:39",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Gabriel Bonfim",
+                "ranking": "Unranked",
+                "odds": "3.35",
+                "link": "https://www.ufc.com.br/athlete/gabriel-bonfim",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Trevin Giles",
+                "ranking": "Unranked",
+                "odds": "1.33",
+                "link": "https://www.ufc.com.br/athlete/trevin-giles",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "1:13",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "CJ Vergara",
+                "ranking": "Unranked",
+                "odds": "1.58",
+                "link": "https://www.ufc.com.br/athlete/cj-vergara",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Vinicius Salvador",
+                "ranking": "Unranked",
+                "odds": "2.40",
+                "link": "https://www.ufc.com.br/athlete/vinicius-salvador",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Roman Kopylov",
+                "ranking": "Unranked",
+                "odds": "1.43",
+                "link": "https://www.ufc.com.br/athlete/roman-kopylov",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Claudio Ribeiro",
+                "ranking": "Unranked",
+                "odds": "2.85",
+                "link": "https://www.ufc.com.br/athlete/claudio-ribeiro",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "0:33",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Jake Matthews",
+                "ranking": "Unranked",
+                "odds": "1.54",
+                "link": "https://www.ufc.com.br/athlete/jake-matthews",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Darrius Flowers",
+                "ranking": "Unranked",
+                "odds": "2.50",
+                "link": "https://www.ufc.com.br/athlete/darrius-flowers",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "2:37",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Matthew Semelsberger",
+                "ranking": "Unranked",
+                "odds": "−190",
+                "link": "https://www.ufc.com.br/athlete/matthew-semelsberger",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Uros Medic",
+                "ranking": "Unranked",
+                "odds": "+160",
+                "link": "https://www.ufc.com.br/athlete/uros-medic",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "2:36",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Miranda Maverick",
+                "ranking": "Unranked",
+                "odds": "−335",
+                "link": "https://www.ufc.com.br/athlete/miranda-maverick",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Priscila Cachoeira",
+                "ranking": "Unranked",
+                "odds": "+260",
+                "link": "https://www.ufc.com.br/athlete/priscila-cachoeira",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "2:11",
+            "method": "Submission"
+        }
+    ]
+}

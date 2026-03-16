@@ -1,0 +1,248 @@
+{
+    "name": "UFC 264: Poirier vs. McGregor",
+    "date": "2021-07-10",
+    "location": "Las Vegas\nUnited States",
+    "venue": "T-Mobile Arena",
+    "fights": [
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Dustin Poirier",
+                "ranking": "1",
+                "odds": "-130",
+                "link": "https://www.ufc.com.br/athlete/dustin-poirier",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Conor McGregor",
+                "ranking": "5",
+                "odds": "+108",
+                "link": "https://www.ufc.com.br/athlete/conor-mcgregor",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "5:00",
+            "method": "TKO - Doctor's Stoppage"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Gilbert Burns",
+                "ranking": "2",
+                "odds": "+125",
+                "link": "https://www.ufc.com.br/athlete/gilbert-burns",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Stephen Thompson",
+                "ranking": "4",
+                "odds": "-155",
+                "link": "https://www.ufc.com.br/athlete/stephen-thompson",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pesado",
+            "red corner": {
+                "name": "Tai Tuivasa",
+                "ranking": "Unranked",
+                "odds": "-137",
+                "link": "https://www.ufc.com.br/athlete/tai-tuivasa",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Greg Hardy",
+                "ranking": "Unranked",
+                "odds": "+110",
+                "link": "https://www.ufc.com.br/athlete/greg-hardy",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "1:07",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Irene Aldana",
+                "ranking": "4",
+                "odds": "-125",
+                "link": "https://www.ufc.com.br/athlete/irene-aldana",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Yana Santos",
+                "ranking": "5",
+                "odds": "+100",
+                "link": "https://www.ufc.com.br/athlete/yana-santos",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "4:35",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Sean O'Malley",
+                "ranking": "Unranked",
+                "odds": "-835",
+                "link": "https://www.ufc.com.br/athlete/sean-omalley",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Kris Moutinho",
+                "ranking": "Unranked",
+                "odds": "+525",
+                "link": "https://www.ufc.com.br/athlete/kameron-els-7",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "4:33",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Carlos Condit",
+                "ranking": "Unranked",
+                "odds": "+150",
+                "link": "https://www.ufc.com.br/athlete/carlos-condit",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Max Griffin",
+                "ranking": "Unranked",
+                "odds": "-190",
+                "link": "https://www.ufc.com.br/athlete/max-griffin",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Niko Price",
+                "ranking": "Unranked",
+                "odds": "+144",
+                "link": "https://www.ufc.com.br/athlete/niko-price",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Michel Pereira",
+                "ranking": "Unranked",
+                "odds": "-177",
+                "link": "https://www.ufc.com.br/athlete/michel-pereira",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Ryan Hall",
+                "ranking": "Unranked",
+                "odds": "+180",
+                "link": "https://www.ufc.com.br/athlete/ryan-hall",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ilia Topuria",
+                "ranking": "Unranked",
+                "odds": "-230",
+                "link": "https://www.ufc.com.br/athlete/ilia-topuria",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "4:47",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Trevin Giles",
+                "ranking": "Unranked",
+                "odds": "-112",
+                "link": "https://www.ufc.com.br/athlete/trevin-giles",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Dricus Du Plessis",
+                "ranking": "Unranked",
+                "odds": "-112",
+                "link": "https://www.ufc.com.br/athlete/dricus-du-plessis",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "1:41",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Jennifer Maia",
+                "ranking": "4",
+                "odds": "-200",
+                "link": "https://www.ufc.com.br/athlete/jennifer-maia",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jessica Eye",
+                "ranking": "7",
+                "odds": "+162",
+                "link": "https://www.ufc.com.br/athlete/jessica-eye",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Omari Akhmedov",
+                "ranking": "13",
+                "odds": "+135",
+                "link": "https://www.ufc.com.br/athlete/omari-akhmedov",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Brad Tavares",
+                "ranking": "15",
+                "odds": "-167",
+                "link": "https://www.ufc.com.br/athlete/brad-tavares",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Zhalgas Zhumagulov",
+                "ranking": "Unranked",
+                "odds": "-360",
+                "link": "https://www.ufc.com.br/athlete/zhalgas-zhumagulov",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jerome Rivera",
+                "ranking": "Unranked",
+                "odds": "+265",
+                "link": "https://www.ufc.com.br/athlete/jerome-rivera",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "2:02",
+            "method": "Submission"
+        }
+    ]
+}

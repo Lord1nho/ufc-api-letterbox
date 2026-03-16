@@ -1,0 +1,228 @@
+{
+    "name": "UFC 257: Poirier vs. McGregor",
+    "date": "2021-01-24",
+    "location": "Abu Dhabi\nUnited Arab Emirates",
+    "venue": "UFC Fight Island",
+    "fights": [
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Dustin Poirier",
+                "ranking": "2",
+                "odds": "+250",
+                "link": "https://www.ufc.com.br/athlete/dustin-poirier",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Conor McGregor",
+                "ranking": "4",
+                "odds": "-305",
+                "link": "https://www.ufc.com.br/athlete/conor-mcgregor",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "02:34",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Dan Hooker",
+                "ranking": "6",
+                "odds": "-134",
+                "link": "https://www.ufc.com.br/athlete/dan-hooker",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Michael Chandler",
+                "ranking": "Unranked",
+                "odds": "+105",
+                "link": "https://www.ufc.com.br/athlete/michael-chandler",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "02:31",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Jessica Eye",
+                "ranking": "6",
+                "odds": "-105",
+                "link": "https://www.ufc.com.br/athlete/jessica-eye",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Joanne Wood",
+                "ranking": "7",
+                "odds": "-117",
+                "link": "https://www.ufc.com.br/athlete/joanne-wood",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Marina Rodriguez",
+                "ranking": "8",
+                "odds": "+250",
+                "link": "https://www.ufc.com.br/athlete/marina-rodriguez",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Amanda Ribas",
+                "ranking": "10",
+                "odds": "-335",
+                "link": "https://www.ufc.com.br/athlete/amanda-ribas",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "01:00",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Andrew Sanchez",
+                "ranking": "Unranked",
+                "odds": "+115",
+                "link": "https://www.ufc.com.br/athlete/andrew-sanchez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Makhmud Muradov",
+                "ranking": "Unranked",
+                "odds": "-143",
+                "link": "https://www.ufc.com.br/athlete/makhmud-muradov",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "03:00",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Arman Tsarukyan",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/arman-tsarukyan",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Matt Frevola",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/matt-frevola",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Brad Tavares",
+                "ranking": "14",
+                "odds": "-134",
+                "link": "https://www.ufc.com.br/athlete/brad-tavares",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Antônio Carlos Junior",
+                "ranking": "Unranked",
+                "odds": "+105",
+                "link": "https://www.ufc.com.br/athlete/antonio-carlos-junior",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Julianna Peña",
+                "ranking": "7",
+                "odds": "+105",
+                "link": "https://www.ufc.com.br/athlete/julianna-pena",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sara McMann",
+                "ranking": "9",
+                "odds": "-130",
+                "link": "https://www.ufc.com.br/athlete/sara-mcmann",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "03:40",
+            "method": "SUB"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Khalil Rountree Jr.",
+                "ranking": "Unranked",
+                "odds": "-335",
+                "link": "https://www.ufc.com.br/athlete/khalil-rountree-jr",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Marcin Prachnio",
+                "ranking": "Unranked",
+                "odds": "+250",
+                "link": "https://www.ufc.com.br/athlete/marcin-prachnio",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Catchweight",
+            "red corner": {
+                "name": "Nik Lentz",
+                "ranking": "Unranked",
+                "odds": "+390",
+                "link": "https://www.ufc.com.br/athlete/nik-lentz",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Movsar Evloev",
+                "ranking": "Unranked",
+                "odds": "-560",
+                "link": "https://www.ufc.com.br/athlete/movsar-evloev",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Amir Albazi",
+                "ranking": "15",
+                "odds": "-106",
+                "link": "https://www.ufc.com.br/athlete/amir-albazi",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Zhalgas Zhumagulov",
+                "ranking": "Unranked",
+                "odds": "-118",
+                "link": "https://www.ufc.com.br/athlete/zhalgas-zhumagulov",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        }
+    ]
+}

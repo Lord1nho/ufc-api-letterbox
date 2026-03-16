@@ -1,0 +1,248 @@
+{
+    "name": "UFC 262: Oliveira vs. Chandler",
+    "date": "2021-05-15",
+    "location": "Houston\nUnited States",
+    "venue": "Toyota Center",
+    "fights": [
+        {
+            "weightclass": "Peso-leve Disputa de Cin",
+            "red corner": {
+                "name": "Charles Oliveira",
+                "ranking": "3",
+                "odds": "-134",
+                "link": "https://www.ufc.com.br/athlete/charles-oliveira",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Michael Chandler",
+                "ranking": "4",
+                "odds": "+110",
+                "link": "https://www.ufc.com.br/athlete/michael-chandler",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "0:19",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Tony Ferguson",
+                "ranking": "5",
+                "odds": "+125",
+                "link": "https://www.ufc.com.br/athlete/tony-ferguson",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Beneil Dariush",
+                "ranking": "9",
+                "odds": "-152",
+                "link": "https://www.ufc.com.br/athlete/beneil-dariush",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Katlyn Cerminara",
+                "ranking": "2",
+                "odds": "-150",
+                "link": "https://www.ufc.com.br/athlete/katlyn-cerminara",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Viviane Araújo",
+                "ranking": "7",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/viviane-araujo",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Shane Burgos",
+                "ranking": "9",
+                "odds": "-134",
+                "link": "https://www.ufc.com.br/athlete/shane-burgos",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Edson Barboza",
+                "ranking": "13",
+                "odds": "+108",
+                "link": "https://www.ufc.com.br/athlete/edson-barboza",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "1:16",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Matt Schnell",
+                "ranking": "8",
+                "odds": "-167",
+                "link": "https://www.ufc.com.br/athlete/matt-schnell",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Rogério Bontorin",
+                "ranking": "9",
+                "odds": "+135",
+                "link": "https://www.ufc.com.br/athlete/rogerio-bontorin",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Ronaldo Souza",
+                "ranking": "Unranked",
+                "odds": "-118",
+                "link": "https://www.ufc.com.br/athlete/ronaldo-souza",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Andre Muniz",
+                "ranking": "Unranked",
+                "odds": "-106",
+                "link": "https://www.ufc.com.br/athlete/andre-muniz",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "3:59",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Lando Vannata",
+                "ranking": "Unranked",
+                "odds": "+100",
+                "link": "https://www.ufc.com.br/athlete/lando-vannata",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Mike Grundy",
+                "ranking": "Unranked",
+                "odds": "-124",
+                "link": "https://www.ufc.com.br/athlete/mike-grundy",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Jordan Wright",
+                "ranking": "Unranked",
+                "odds": "-112",
+                "link": "https://www.ufc.com.br/athlete/jordan-wright",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jamie Pickett",
+                "ranking": "Unranked",
+                "odds": "-112",
+                "link": "https://www.ufc.com.br/athlete/jamie-pickett",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "1:04",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Andrea Lee",
+                "ranking": "11",
+                "odds": "+117",
+                "link": "https://www.ufc.com.br/athlete/andrea-lee",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Antonina Shevchenko",
+                "ranking": "12",
+                "odds": "-143",
+                "link": "https://www.ufc.com.br/athlete/antonina-shevchenko",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "4:52",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Gina Mazany",
+                "ranking": "Unranked",
+                "odds": "-200",
+                "link": "https://www.ufc.com.br/athlete/gina-mazany",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Priscila Cachoeira",
+                "ranking": "Unranked",
+                "odds": "+155",
+                "link": "https://www.ufc.com.br/athlete/priscila-cachoeira",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "4:51",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Kevin Aguilar",
+                "ranking": "Unranked",
+                "odds": "-103",
+                "link": "https://www.ufc.com.br/athlete/kevin-aguilar",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Tucker Lutz",
+                "ranking": "Unranked",
+                "odds": "-122",
+                "link": "https://www.ufc.com.br/athlete/tucker-lutz",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Christos Giagos",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/christos-giagos",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sean Soriano",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/sean-soriano",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "0:59",
+            "method": "Submission"
+        }
+    ]
+}

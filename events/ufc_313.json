@@ -1,0 +1,208 @@
+{
+    "name": "UFC 313: Pereira vs. Ankalaev",
+    "date": "2025-03-09",
+    "location": "",
+    "venue": "T-Mobile Arena",
+    "fights": [
+        {
+            "weightclass": "Peso meio-pesado Disputa de Cin",
+            "red corner": {
+                "name": "Alex Pereira",
+                "ranking": "",
+                "odds": "-120",
+                "link": "https://www.ufc.com.br/athlete/alex-pereira",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Magomed Ankalaev",
+                "ranking": "1",
+                "odds": "+100",
+                "link": "https://www.ufc.com.br/athlete/magomed-ankalaev",
+                "result": "Win"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Justin Gaethje",
+                "ranking": "3",
+                "odds": "+136",
+                "link": "https://www.ufc.com.br/athlete/justin-gaethje",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Rafael Fiziev",
+                "ranking": "11",
+                "odds": "-162",
+                "link": "https://www.ufc.com.br/athlete/rafael-fiziev",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Jalin Turner",
+                "ranking": "13",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/jalin-turner",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ignacio Bahamondes",
+                "ranking": "Unranked",
+                "odds": "-142",
+                "link": "https://www.ufc.com.br/athlete/ignacio-bahamondes",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:29",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Amanda Lemos",
+                "ranking": "5",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/amanda-lemos",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Iasmin Lucindo",
+                "ranking": "7",
+                "odds": "-142",
+                "link": "https://www.ufc.com.br/athlete/iasmin-lucindo",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "King Green",
+                "ranking": "Unranked",
+                "odds": "+400",
+                "link": "https://www.ufc.com.br/athlete/bobby-green",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Mauricio Ruffy",
+                "ranking": "Unranked",
+                "odds": "-535",
+                "link": "https://www.ufc.com.br/athlete/mauricio-ruffy",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:07",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Joshua Van",
+                "ranking": "Unranked",
+                "odds": "-148",
+                "link": "https://www.ufc.com.br/athlete/joshua-van",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Rei Tsuruya",
+                "ranking": "Unranked",
+                "odds": "+124",
+                "link": "https://www.ufc.com.br/athlete/rei-tsuruya",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Brunno Ferreira",
+                "ranking": "Unranked",
+                "odds": "+114",
+                "link": "https://www.ufc.com.br/athlete/brunno-ferreira",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Armen Petrosyan",
+                "ranking": "Unranked",
+                "odds": "-135",
+                "link": "https://www.ufc.com.br/athlete/armen-petrosyan",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "4:27",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Alex Morono",
+                "ranking": "Unranked",
+                "odds": "+525",
+                "link": "https://www.ufc.com.br/athlete/alex-morono",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Carlos Leal",
+                "ranking": "Unranked",
+                "odds": "-750",
+                "link": "https://www.ufc.com.br/athlete/carlos-leal",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "4:16",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Mairon Santos",
+                "ranking": "Unranked",
+                "odds": "-265",
+                "link": "https://www.ufc.com.br/athlete/mairon-santos-alves",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Francis Marshall",
+                "ranking": "Unranked",
+                "odds": "+215",
+                "link": "https://www.ufc.com.br/athlete/francis-marshall",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Djorden Santos",
+                "ranking": "Unranked",
+                "odds": "-185",
+                "link": "https://www.ufc.com.br/athlete/djorden-santos",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ozzy Diaz",
+                "ranking": "Unranked",
+                "odds": "+154",
+                "link": "https://www.ufc.com.br/athlete/ozzy-diaz",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        }
+    ]
+}

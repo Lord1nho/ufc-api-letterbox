@@ -1,0 +1,248 @@
+{
+    "name": "UFC 288: Sterling vs. Cejudo",
+    "date": "2023-05-06",
+    "location": "",
+    "venue": "Prudential Center",
+    "fights": [
+        {
+            "weightclass": "Peso-galo Disputa de Cin",
+            "red corner": {
+                "name": "Aljamain Sterling",
+                "ranking": "",
+                "odds": "1.93",
+                "link": "https://www.ufc.com.br/athlete/aljamain-sterling",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Henry Cejudo",
+                "ranking": "Unranked",
+                "odds": "1.88",
+                "link": "https://www.ufc.com.br/athlete/henry-cejudo",
+                "result": "Loss"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Belal Muhammad",
+                "ranking": "4",
+                "odds": "2.08",
+                "link": "https://www.ufc.com.br/athlete/belal-muhammad",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Gilbert Burns",
+                "ranking": "5",
+                "odds": "1.76",
+                "link": "https://www.ufc.com.br/athlete/gilbert-burns",
+                "result": "Loss"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Jéssica Andrade",
+                "ranking": "4",
+                "odds": "1.54",
+                "link": "https://www.ufc.com.br/athlete/jessica-andrade",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Yan Xiaonan",
+                "ranking": "6",
+                "odds": "2.50",
+                "link": "https://www.ufc.com.br/athlete/xiaonan-yan",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:20",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Movsar Evloev",
+                "ranking": "10",
+                "odds": "1.38",
+                "link": "https://www.ufc.com.br/athlete/movsar-evloev",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Diego Lopes",
+                "ranking": "Unranked",
+                "odds": "3.10",
+                "link": "https://www.ufc.com.br/athlete/diego-lopes",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Kron Gracie",
+                "ranking": "Unranked",
+                "odds": "2.60",
+                "link": "https://www.ufc.com.br/athlete/kron-gracie",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Charles Jourdain",
+                "ranking": "Unranked",
+                "odds": "1.51",
+                "link": "https://www.ufc.com.br/athlete/charles-jourdain",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Drew Dober",
+                "ranking": "14",
+                "odds": "1.47",
+                "link": "https://www.ufc.com.br/athlete/drew-dober",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Matt Frevola",
+                "ranking": "Unranked",
+                "odds": "2.70",
+                "link": "https://www.ufc.com.br/athlete/matt-frevola",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "4:08",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Kennedy Nzechukwu",
+                "ranking": "Unranked",
+                "odds": "1.47",
+                "link": "https://www.ufc.com.br/athlete/kennedy-nzechukwu",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Devin Clark",
+                "ranking": "Unranked",
+                "odds": "2.70",
+                "link": "https://www.ufc.com.br/athlete/devin-clark",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "2:28",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Khaos Williams",
+                "ranking": "Unranked",
+                "odds": "1.33",
+                "link": "https://www.ufc.com.br/athlete/khaos-williams",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Rolando Bedoya",
+                "ranking": "Unranked",
+                "odds": "3.35",
+                "link": "https://www.ufc.com.br/athlete/rolando-bedoya",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Marina Rodriguez",
+                "ranking": "5",
+                "odds": "1.55",
+                "link": "https://www.ufc.com.br/athlete/marina-rodriguez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Virna Jandiroba",
+                "ranking": "9",
+                "odds": "2.47",
+                "link": "https://www.ufc.com.br/athlete/virna-jandiroba",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pesado",
+            "red corner": {
+                "name": "Braxton Smith",
+                "ranking": "Unranked",
+                "odds": "2.48",
+                "link": "https://www.ufc.com.br/athlete/braxton-smith",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Parker Porter",
+                "ranking": "Unranked",
+                "odds": "1.54",
+                "link": "https://www.ufc.com.br/athlete/parker-porter",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:10",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Phil Hawes",
+                "ranking": "Unranked",
+                "odds": "2.70",
+                "link": "https://www.ufc.com.br/athlete/phillip-hawes",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ikram Aliskerov",
+                "ranking": "Unranked",
+                "odds": "1.47",
+                "link": "https://www.ufc.com.br/athlete/ikram-aliskerov",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:10",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Joseph Holmes",
+                "ranking": "Unranked",
+                "odds": "2.70",
+                "link": "https://www.ufc.com.br/athlete/joseph-holmes",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Claudio Ribeiro",
+                "ranking": "Unranked",
+                "odds": "1.47",
+                "link": "https://www.ufc.com.br/athlete/claudio-ribeiro",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "3:21",
+            "method": "KO/TKO"
+        }
+    ]
+}

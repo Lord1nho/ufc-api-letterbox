@@ -1,0 +1,248 @@
+{
+    "name": "UFC 255: Figueiredo vs. Perez",
+    "date": "2020-11-22",
+    "location": "Las Vegas\nUnited States",
+    "venue": "Meta APEX",
+    "fights": [
+        {
+            "weightclass": "Peso-mosca Disputa de Cin",
+            "red corner": {
+                "name": "Deiveson Figueiredo",
+                "ranking": "",
+                "odds": "-280",
+                "link": "https://www.ufc.com.br/athlete/deiveson-figueiredo",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Alex Perez",
+                "ranking": "4",
+                "odds": "+240",
+                "link": "https://www.ufc.com.br/athlete/alex-perez",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "01:57",
+            "method": "SUB"
+        },
+        {
+            "weightclass": "Peso-mosca feminino Disputa de Cin",
+            "red corner": {
+                "name": "Valentina Shevchenko",
+                "ranking": "",
+                "odds": "-1600",
+                "link": "https://www.ufc.com.br/athlete/valentina-shevchenko",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jennifer Maia",
+                "ranking": "3",
+                "odds": "+900",
+                "link": "https://www.ufc.com.br/athlete/jennifer-maia",
+                "result": "Loss"
+            },
+            "round": "5",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Mike Perry",
+                "ranking": "Unranked",
+                "odds": "-130",
+                "link": "https://www.ufc.com.br/athlete/mike-perry",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Tim Means",
+                "ranking": "Unranked",
+                "odds": "+110",
+                "link": "https://www.ufc.com.br/athlete/tim-means",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Katlyn Cerminara",
+                "ranking": "2",
+                "odds": "+220",
+                "link": "https://www.ufc.com.br/athlete/katlyn-cerminara",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Cynthia Calvillo",
+                "ranking": "4",
+                "odds": "-260",
+                "link": "https://www.ufc.com.br/athlete/cynthia-calvillo",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Mauricio Rua",
+                "ranking": "14",
+                "odds": "+155",
+                "link": "https://www.ufc.com.br/athlete/mauricio-rua",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Paul Craig",
+                "ranking": "15",
+                "odds": "-175",
+                "link": "https://www.ufc.com.br/athlete/paul-craig",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "03:38",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Brandon Moreno",
+                "ranking": "2",
+                "odds": "-190",
+                "link": "https://www.ufc.com.br/athlete/brandon-moreno",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Brandon Royval",
+                "ranking": "6",
+                "odds": "+170",
+                "link": "https://www.ufc.com.br/athlete/brandon-royval",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "04:59",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Joaquin Buckley",
+                "ranking": "Unranked",
+                "odds": "-240",
+                "link": "https://www.ufc.com.br/athlete/joaquin-buckley",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jordan Wright",
+                "ranking": "Unranked",
+                "odds": "+200",
+                "link": "https://www.ufc.com.br/athlete/jordan-wright",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "00:18",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Antonina Shevchenko",
+                "ranking": "15",
+                "odds": "-160",
+                "link": "https://www.ufc.com.br/athlete/antonina-shevchenko",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Ariane da Silva",
+                "ranking": "Unranked",
+                "odds": "+140",
+                "link": "https://www.ufc.com.br/athlete/ariane-lipski",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "04:34",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Daniel Rodriguez",
+                "ranking": "Unranked",
+                "odds": "-325",
+                "link": "https://www.ufc.com.br/athlete/daniel-rodriguez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Nicolas Dalby",
+                "ranking": "Unranked",
+                "odds": "+265",
+                "link": "https://www.ufc.com.br/athlete/nicolas-dalby",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Alan Jouban",
+                "ranking": "Unranked",
+                "odds": "-145",
+                "link": "https://www.ufc.com.br/athlete/alan-jouban",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jared Gooden",
+                "ranking": "Unranked",
+                "odds": "+125",
+                "link": "https://www.ufc.com.br/athlete/jared-gooden",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Kyle Daukaus",
+                "ranking": "Unranked",
+                "odds": "-320",
+                "link": "https://www.ufc.com.br/athlete/kyle-daukaus",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Dustin Stoltzfus",
+                "ranking": "Unranked",
+                "odds": "+260",
+                "link": "https://www.ufc.com.br/athlete/dustin-stoltzfus",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "05:00",
+            "method": "DEC"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Louis Cosce",
+                "ranking": "Unranked",
+                "odds": "-450",
+                "link": "https://www.ufc.com.br/athlete/louis-cosce",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Sasha Palatnikov",
+                "ranking": "Unranked",
+                "odds": "+370",
+                "link": "https://www.ufc.com.br/athlete/sasha-palatnikov",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "02:49",
+            "method": "KO/TKO"
+        }
+    ]
+}

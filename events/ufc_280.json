@@ -1,0 +1,248 @@
+{
+    "name": "UFC 280: Oliveira vs. Makhachev",
+    "date": "2022-10-22",
+    "location": "Yas Island/Yas West\nUnited Arab Emirates",
+    "venue": "Etihad Arena",
+    "fights": [
+        {
+            "weightclass": "Peso-leve Disputa de Cin",
+            "red corner": {
+                "name": "Charles Oliveira",
+                "ranking": "1",
+                "odds": "2.55",
+                "link": "https://www.ufc.com.br/athlete/charles-oliveira",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Islam Makhachev",
+                "ranking": "4",
+                "odds": "1.53",
+                "link": "https://www.ufc.com.br/athlete/islam-makhachev",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "3:16",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-galo Disputa de Cin",
+            "red corner": {
+                "name": "Aljamain Sterling",
+                "ranking": "",
+                "odds": "1.56",
+                "link": "https://www.ufc.com.br/athlete/aljamain-sterling",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "TJ Dillashaw",
+                "ranking": "2",
+                "odds": "2.43",
+                "link": "https://www.ufc.com.br/athlete/tj-dillashaw",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "3:44",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Petr Yan",
+                "ranking": "1",
+                "odds": "1.32",
+                "link": "https://www.ufc.com.br/athlete/petr-yan",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Sean O'Malley",
+                "ranking": "11",
+                "odds": "3.40",
+                "link": "https://www.ufc.com.br/athlete/sean-omalley",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "Beneil Dariush",
+                "ranking": "6",
+                "odds": "2.65",
+                "link": "https://www.ufc.com.br/athlete/beneil-dariush",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Mateusz Gamrot",
+                "ranking": "9",
+                "odds": "1.53",
+                "link": "https://www.ufc.com.br/athlete/mateusz-gamrot",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Katlyn Cerminara",
+                "ranking": "1",
+                "odds": "2.80",
+                "link": "https://www.ufc.com.br/athlete/katlyn-cerminara",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Manon Fiorot",
+                "ranking": "6",
+                "odds": "1.48",
+                "link": "https://www.ufc.com.br/athlete/manon-fiorot",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Belal Muhammad",
+                "ranking": "5",
+                "odds": "2.22",
+                "link": "https://www.ufc.com.br/athlete/belal-muhammad",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Sean Brady",
+                "ranking": "8",
+                "odds": "1.73",
+                "link": "https://www.ufc.com.br/athlete/sean-brady",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "4:47",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Makhmud Muradov",
+                "ranking": "Unranked",
+                "odds": "2.75",
+                "link": "https://www.ufc.com.br/athlete/makhmud-muradov",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Caio Borralho",
+                "ranking": "Unranked",
+                "odds": "1.50",
+                "link": "https://www.ufc.com.br/athlete/caio-borralho",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Volkan Oezdemir",
+                "ranking": "8",
+                "odds": "2.50",
+                "link": "https://www.ufc.com.br/athlete/volkan-oezdemir",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Nikita Krylov",
+                "ranking": "10",
+                "odds": "1.58",
+                "link": "https://www.ufc.com.br/athlete/nikita-krylov",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Abubakar Nurmagomedov",
+                "ranking": "Unranked",
+                "odds": "1.61",
+                "link": "https://www.ufc.com.br/athlete/abubakar-nurmagomedov",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Gadzhi Omargadzhiev",
+                "ranking": "Unranked",
+                "odds": "2.44",
+                "link": "https://www.ufc.com.br/athlete/gadzhi-omargadzhiev",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Armen Petrosyan",
+                "ranking": "Unranked",
+                "odds": "1.49",
+                "link": "https://www.ufc.com.br/athlete/armen-petrosyan",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "AJ Dobson",
+                "ranking": "Unranked",
+                "odds": "2.80",
+                "link": "https://www.ufc.com.br/athlete/aj-dobson",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Muhammad Mokaev",
+                "ranking": "Unranked",
+                "odds": "1.09",
+                "link": "https://www.ufc.com.br/athlete/muhammad-mokaev",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Malcolm Gordon",
+                "ranking": "Unranked",
+                "odds": "9.00",
+                "link": "https://www.ufc.com.br/athlete/malcolm-gordon",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "4:26",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Karol Rosa",
+                "ranking": "9",
+                "odds": "1.31",
+                "link": "https://www.ufc.com.br/athlete/karol-rosa",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Lina Lansberg",
+                "ranking": "12",
+                "odds": "3.80",
+                "link": "https://www.ufc.com.br/athlete/lina-lansberg",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Majority"
+        }
+    ]
+}

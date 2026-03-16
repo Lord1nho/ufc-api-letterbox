@@ -145,11 +145,14 @@ def get_upcoming_event_links():
     return ["https://www.ufc.com/"+x for x in xml.xpath("//details[@id='events-list-upcoming']/div/div/div/div/div/section/ul/li/article/div[1]/div/a/@href")]
 
 def get_ufc_link_event(query):
-    possible_urls = search(query+" UFC")
-    for url in possible_urls:
-        if ("ufc.com/event/" in url):
+    if query.startswith("http"):
+        return query
+
+    for url in search(query + " ufc"):
+        if "ufc.com/event/" in url:
             return url
-    raise BaseException("UFC link not found !")
+
+    raise Exception("UFC link not found!")
     
 def get_ranking(fight, corner):
     if corner == 'red':

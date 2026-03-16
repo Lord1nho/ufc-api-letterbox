@@ -1,0 +1,268 @@
+{
+    "name": "UFC 265: Lewis vs. Gane",
+    "date": "2021-08-07",
+    "location": "Houston\nUnited States",
+    "venue": "Toyota Center",
+    "fights": [
+        {
+            "weightclass": "Peso-pesado Cinturão Int",
+            "red corner": {
+                "name": "Derrick Lewis",
+                "ranking": "2",
+                "odds": "+270",
+                "link": "https://www.ufc.com.br/athlete/derrick-lewis",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Ciryl Gane",
+                "ranking": "3",
+                "odds": "-350",
+                "link": "https://www.ufc.com.br/athlete/ciryl-gane",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "4:11",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "José Aldo",
+                "ranking": "5",
+                "odds": "-140",
+                "link": "https://www.ufc.com.br/athlete/jose-aldo",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Pedro Munhoz",
+                "ranking": "9",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/pedro-munhoz",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Michael Chiesa",
+                "ranking": "5",
+                "odds": "-105",
+                "link": "https://www.ufc.com.br/athlete/michael-chiesa",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Vicente Luque",
+                "ranking": "6",
+                "odds": "-115",
+                "link": "https://www.ufc.com.br/athlete/vicente-luque",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "3:25",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Tecia Pennington",
+                "ranking": "10",
+                "odds": "-145",
+                "link": "https://www.ufc.com.br/athlete/tecia-pennington",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Angela Hill",
+                "ranking": "12",
+                "odds": "+125",
+                "link": "https://www.ufc.com.br/athlete/angela-hill",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Song Yadong",
+                "ranking": "Unranked",
+                "odds": "+105",
+                "link": "https://www.ufc.com.br/athlete/yadong-song",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Casey Kenney",
+                "ranking": "Unranked",
+                "odds": "-125",
+                "link": "https://www.ufc.com.br/athlete/casey-kenney",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-leve",
+            "red corner": {
+                "name": "King Green",
+                "ranking": "Unranked",
+                "odds": "+245",
+                "link": "https://www.ufc.com.br/athlete/bobby-green",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Rafael Fiziev",
+                "ranking": "Unranked",
+                "odds": "-310",
+                "link": "https://www.ufc.com.br/athlete/rafael-fiziev",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Vince Morales",
+                "ranking": "Unranked",
+                "odds": "-105",
+                "link": "https://www.ufc.com.br/athlete/vince-morales",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Drako Rodriguez",
+                "ranking": "Unranked",
+                "odds": "-115",
+                "link": "https://www.ufc.com.br/athlete/drako-rodriguez",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Alonzo Menifield",
+                "ranking": "Unranked",
+                "odds": "-240",
+                "link": "https://www.ufc.com.br/athlete/alonzo-menifield",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Ed Herman",
+                "ranking": "Unranked",
+                "odds": "+195",
+                "link": "https://www.ufc.com.br/athlete/ed-herman",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Karolina Kowalkiewicz",
+                "ranking": "Unranked",
+                "odds": "-140",
+                "link": "https://www.ufc.com.br/athlete/karolina-kowalkiewicz",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Jessica Penne",
+                "ranking": "Unranked",
+                "odds": "+120",
+                "link": "https://www.ufc.com.br/athlete/jessica-penne",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "4:32",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-mosca",
+            "red corner": {
+                "name": "Manel Kape",
+                "ranking": "Unranked",
+                "odds": "-200",
+                "link": "https://www.ufc.com.br/athlete/manel-kape",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Ode' Osbourne",
+                "ranking": "Unranked",
+                "odds": "+170",
+                "link": "https://www.ufc.com.br/athlete/ode-osbourne",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "4:44",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Miles Johns",
+                "ranking": "Unranked",
+                "odds": "-210",
+                "link": "https://www.ufc.com.br/athlete/miles-johns",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Anderson dos Santos",
+                "ranking": "Unranked",
+                "odds": "+175",
+                "link": "https://www.ufc.com.br/athlete/anderson-dos-santos",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "1:16",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-mosca feminino",
+            "red corner": {
+                "name": "Victoria Leonardo",
+                "ranking": "Unranked",
+                "odds": "-110",
+                "link": "https://www.ufc.com.br/athlete/victoria-leonardo",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Melissa Gatto",
+                "ranking": "Unranked",
+                "odds": "-110",
+                "link": "https://www.ufc.com.br/athlete/melissa-gatto",
+                "result": "Win"
+            },
+            "round": "2",
+            "time": "5:00",
+            "method": "TKO - Doctor's Stoppage"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Johnny Munoz",
+                "ranking": "Unranked",
+                "odds": "-310",
+                "link": "https://www.ufc.com.br/athlete/johnny-munoz",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jamey Simmons",
+                "ranking": "Unranked",
+                "odds": "+245",
+                "link": "https://www.ufc.com.br/athlete/jamey-simmons",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "2:35",
+            "method": "Submission"
+        }
+    ]
+}

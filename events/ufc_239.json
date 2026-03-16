@@ -1,0 +1,248 @@
+{
+    "name": "UFC 239: Jones vs. Santos",
+    "date": "2019-07-06",
+    "location": "Las Vegas\nUnited States",
+    "venue": "T-Mobile Arena",
+    "fights": [
+        {
+            "weightclass": "Peso meio-pesado Disputa de Cin",
+            "red corner": {
+                "name": "Jon Jones",
+                "ranking": "2",
+                "odds": "+500",
+                "link": "https://www.ufc.com.br/athlete/jon-jones",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Thiago Santos",
+                "ranking": "2",
+                "odds": "-700",
+                "link": "https://www.ufc.com.br/athlete/thiago-santos",
+                "result": "Loss"
+            },
+            "round": "5",
+            "time": "5:00",
+            "method": "Decision - Split"
+        },
+        {
+            "weightclass": "Peso-galo feminino Disputa de Cin",
+            "red corner": {
+                "name": "Amanda Nunes",
+                "ranking": "6",
+                "odds": "-400",
+                "link": "https://www.ufc.com.br/athlete/amanda-nunes",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Holly Holm",
+                "ranking": "2",
+                "odds": "+300",
+                "link": "https://www.ufc.com.br/athlete/holly-holm",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "4:10",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Jorge Masvidal",
+                "ranking": "4",
+                "odds": "+175",
+                "link": "https://www.ufc.com.br/athlete/jorge-masvidal",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Ben Askren",
+                "ranking": "5",
+                "odds": "-210",
+                "link": "https://www.ufc.com.br/athlete/ben-askren",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "0:05",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso meio-pesado",
+            "red corner": {
+                "name": "Jan Blachowicz",
+                "ranking": "6",
+                "odds": "+190",
+                "link": "https://www.ufc.com.br/athlete/jan-blachowicz",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Luke Rockhold",
+                "ranking": "3",
+                "odds": "-240",
+                "link": "https://www.ufc.com.br/athlete/ruku-rotsukuhoruto",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "1:39",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Diego Sanchez",
+                "ranking": "Unranked",
+                "odds": "+270",
+                "link": "https://www.ufc.com.br/athlete/diego-sanchez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Michael Chiesa",
+                "ranking": "Unranked",
+                "odds": "-350",
+                "link": "https://www.ufc.com.br/athlete/michael-chiesa",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-pena",
+            "red corner": {
+                "name": "Gilbert Melendez",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/gilbert-melendez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Arnold Allen",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/arnold-allen",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Marlon Vera",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/marlon-vera",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Nohelin Hernandez",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/nohelin-hernandez",
+                "result": "Loss"
+            },
+            "round": "2",
+            "time": "3:25",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso-palha feminino",
+            "red corner": {
+                "name": "Claudia Gadelha",
+                "ranking": "5",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/claudia-gadelha",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Randa Markos",
+                "ranking": "14",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/randa-markos",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo",
+            "red corner": {
+                "name": "Alejandro Perez",
+                "ranking": "13",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/alejandro-perez",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Song Yadong",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/yadong-song",
+                "result": "Win"
+            },
+            "round": "1",
+            "time": "2:04",
+            "method": "KO/TKO"
+        },
+        {
+            "weightclass": "Peso-médio",
+            "red corner": {
+                "name": "Edmen Shahbazyan",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/etomen-shiyahashian",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Jack Marshman",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/jack-marshman",
+                "result": "Loss"
+            },
+            "round": "1",
+            "time": "1:12",
+            "method": "Submission"
+        },
+        {
+            "weightclass": "Peso Meio-Médio",
+            "red corner": {
+                "name": "Ismail Naurdiev",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/ismail-naurdiev",
+                "result": "Loss"
+            },
+            "blue corner": {
+                "name": "Chance Rencountre",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/chance-rencountre",
+                "result": "Win"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        },
+        {
+            "weightclass": "Peso-galo feminino",
+            "red corner": {
+                "name": "Julia Avila",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/julia-avila",
+                "result": "Win"
+            },
+            "blue corner": {
+                "name": "Pannie Kianzad",
+                "ranking": "Unranked",
+                "odds": "-",
+                "link": "https://www.ufc.com.br/athlete/pannie-kianzad",
+                "result": "Loss"
+            },
+            "round": "3",
+            "time": "5:00",
+            "method": "Decision - Unanimous"
+        }
+    ]
+}
