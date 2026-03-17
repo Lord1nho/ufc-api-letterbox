@@ -1,8 +1,15 @@
 import requests as req
 from lxml import html
 import datetime as dt
-import math
-import re
+
+def safe_xpath(node, path):
+    result = node.xpath(path)
+    return result[0] if result else None
+
+
+def safe_xpath_text(node, path):
+    result = node.xpath(path)
+    return result[0].strip() if result else None
 
 def parse_sherdog_fighter(url):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
@@ -184,16 +191,29 @@ def parse_event(url, past=True):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
     htm = req.get(url, headers = headers)
     xml = html.document_fromstring(htm.content)
-    fights_html = xml.xpath("//div[@class='fight-card']/div/div/section/ul/li")
+    fights_html = xml.xpath("//li[contains(@class,'fight')]")    
     
-    prefix = xml.xpath("//div[@class='c-hero__header']/div[1]/div/h1/text()")[0].strip()
+    prefix = safe_xpath_text(xml, "//div[@class='c-hero__header']/div[1]/div/h1/text()")
     names = xml.xpath("//div[@class='c-hero__header']/div[2]/span/span/text()")
 
-    name = f"{prefix}: {names[0].strip()} vs. {names[-1].strip()}"
+    if names:
+        name = f"{prefix}: {names[0].strip()} vs. {names[-1].strip()}"
+    else:
+        name = prefix
 
-    date = dt.datetime.fromtimestamp(int(xml.xpath("//div[@class='c-hero__bottom-text']/div[1]/@data-timestamp")[0]))
-    date = date.strftime("%Y-%m-%d")
-    location = xml.xpath("//div[@class='c-hero__bottom-text']/div[2]/div/text()")[0].split(",")
+    timestamp = safe_xpath(xml, "//div[@class='c-hero__bottom-text']/div[1]/@data-timestamp")
+
+    if timestamp:
+        date = dt.datetime.fromtimestamp(int(timestamp)).strftime("%Y-%m-%d")
+    else:
+        date = None
+
+    location_data = safe_xpath(xml, "//div[@class='c-hero__bottom-text']/div[2]/div/text()")
+
+    if location_data:
+        location = location_data.split(",")
+    else:
+        location = ["Unknown", "Unknown"]
 
     event = {
         'name': name,
@@ -203,18 +223,21 @@ def parse_event(url, past=True):
         'fights': []
     }
     for fight in fights_html:
+        weightclass = safe_xpath_text(
+            fight, "div/div/div/div[2]/div[2]/div[1]/div[2]/text()")
+
         this_fight = {
-                'weightclass': fight.xpath("div/div/div/div[2]/div[2]/div[1]/div[2]/text()")[0][:-5],
+                'weightclass': weightclass,
                 'red corner': {
                     'name': get_name(fight, 'red'),
                     'ranking': get_ranking(fight, 'red'),
-                    'odds': fight.xpath("div/div/div/div[4]/div[2]/span[1]/span/text()")[0],
+                    'odds': safe_xpath_text(fight, "div/div/div/div[4]/div[2]/span[1]/span/text()"),
                     'link': fight.xpath("div/div/div/div[2]/div[2]/div[5]/div[1]/a/@href")[0]
                 },
                 'blue corner': {
                     'name': get_name(fight, 'blue'),
                     'ranking': get_ranking(fight, 'blue'),
-                    'odds': fight.xpath("div/div/div/div[4]/div[2]/span[3]/span/text()")[0],
+                    'odds': safe_xpath_text(fight, "div/div/div/div[4]/div[2]/span[3]/span/text()"),
                     'link': fight.xpath("div/div/div/div[2]/div[2]/div[5]/div[3]/a/@href")[0]            
                 }
             }
@@ -225,11 +248,12 @@ def parse_event(url, past=True):
             finished_round = fight.xpath("div//div[@class='c-listing-fight__result-text round']/text()")
             finished_time = fight.xpath("div//div[@class='c-listing-fight__result-text time']/text()")
             
-            this_fight['round'] = finished_round[0]
-            this_fight['time'] = finished_time[0]
-            this_fight['method'] = method[0]
-            this_fight['red corner']['result'] = result[0].strip()
-            this_fight['blue corner']['result'] = result[1].strip()
+            this_fight['round'] = finished_round[0] if finished_round else None
+            this_fight['time'] = finished_time[0] if finished_time else None
+            this_fight['method'] = method[0] if method else None
+            if len(result) >= 2:
+                this_fight['red corner']['result'] = result[0].strip()
+                this_fight['blue corner']['result'] = result[1].strip()
         event['fights'].append(this_fight)
     return event
 
