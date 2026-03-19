@@ -1,0 +1,71 @@
+ufc_250.json | UFC 250: Nunes vs. Spencer | fights: 12
+ufc_251.json | UFC 251: Usman vs. Masvidal | fights: 13
+ufc_252.json | UFC 252: Miocic vs. Cormier | fights: 0
+ufc_253.json | UFC 253: Adesanya vs. Costa | fights: 11
+ufc_255.json | UFC 255: Figueiredo vs. Perez | fights: 12
+ufc_257.json | UFC 257: Poirier vs. McGregor | fights: 11
+ufc_258.json | UFC 258: Usman vs. Burns | fights: 10
+ufc_261.json | UFC 261: Usman vs. Masvidal | fights: 13
+ufc_262.json | UFC 262: Oliveira vs. Chandler | fights: 12
+ufc_263.json | UFC 263: Adesanya vs. Vettori | fights: 14
+ufc_264.json | UFC 264: Poirier vs. McGregor | fights: 12
+ufc_265.json | UFC 265: Lewis vs. Gane | fights: 13
+ufc_266.json | UFC 266: Volkanovski vs. Ortega | fights: 13
+ufc_267.json | UFC 267: Blachowicz vs. Teixeira | fights: 14
+ufc_268.json | UFC 268: Usman vs. Covington | fights: 14
+ufc_269.json | UFC 269: Oliveira vs. Poirier | fights: 14
+ufc_270.json | UFC 270: Ngannou vs. Gane | fights: 11
+ufc_271.json | UFC 271: Adesanya vs. Whittaker | fights: 14
+ufc_272.json | UFC 272: Covington vs. Masvidal | fights: 13
+ufc_273.json | UFC 273: Volkanovski vs. The Korean Zombie | fights: 12
+ufc_274.json | UFC 274: Oliveira vs. Gaethje | fights: 14
+ufc_275.json | UFC 275: Teixeira vs. Prochazka | fights: 11
+ufc_276.json | UFC 276: Adesanya vs. Cannonier | fights: 12
+ufc_277.json | UFC 277: Peña vs. Nunes | fights: 13
+ufc_278.json | UFC 278: Usman vs. Edwards | fights: 12
+ufc_279.json | UFC 279: Diaz vs. Ferguson | fights: 13
+ufc_280.json | UFC 280: Oliveira vs. Makhachev | fights: 12
+ufc_281.json | UFC 281: Adesanya vs. Pereira | fights: 14
+ufc_282.json | UFC 282: Błachowicz vs. Ankalaev | fights: 12
+ufc_283.json | UFC 283: Teixeira vs. Hill | fights: 15
+ufc_284.json | UFC 284: Makhachev vs. Volkanovski | fights: 13
+ufc_286.json | UFC 286: Edwards vs. Usman | fights: 15
+ufc_287.json | UFC 287: Pereira vs. Adesanya | fights: 12
+ufc_288.json | UFC 288: Sterling vs. Cejudo | fights: 12
+ufc_289.json | UFC 289: Nunes vs. Aldana | fights: 11
+ufc_290.json | UFC 290: Volkanovski vs. Rodriguez | fights: 13
+ufc_291.json | UFC 291: Poirier vs. Gaethje | fights: 11
+ufc_292.json | UFC 292: Sterling vs. O'Malley | fights: 12
+ufc_293.json | UFC 293: Adesanya vs. Strickland | fights: 12
+ufc_294.json | UFC 294: Makhachev vs. Volkanovski | fights: 13
+ufc_296.json | UFC 296: Edwards vs. Covington | fights: 12
+ufc_297.json | UFC 297: Strickland vs. Du Plessis | fights: 12
+ufc_298.json | UFC 298: Volkanovski vs. Topuria | fights: 12
+ufc_299.json | UFC 299: O'Malley vs. Vera | fights: 14
+ufc_300.json | UFC 300: Pereira vs. Hill | fights: 13
+ufc_301.json | UFC 301: Pantoja vs. Erceg | fights: 13
+ufc_302.json | UFC 302: Makhachev vs. Poirier | fights: 12
+ufc_303.json | UFC 303: Pereira vs. Prochazka | fights: 13
+ufc_304.json | UFC 304: Edwards vs. Muhammad | fights: 14
+ufc_305.json | UFC 305: Du Plessis vs. Adesanya | fights: 12
+ufc_307.json | UFC 307: Pereira vs. Rountree Jr. | fights: 12
+ufc_308.json | UFC 308: Topuria vs. Holloway | fights: 13
+ufc_309.json | UFC 309: Jones vs. Miocic | fights: 12
+ufc_310.json | UFC 310: Pantoja vs. Asakura | fights: 14
+ufc_312.json | UFC 312: Du Plessis vs. Strickland 2 | fights: 12
+ufc_313.json | UFC 313: Pereira vs. Ankalaev | fights: 10
+ufc_314.json | UFC 314: Volkanovski vs. Lopes | fights: 13
+ufc_315.json | UFC 315: Muhammad vs. Della Maddalena | fights: 12
+ufc_316.json | UFC 316: Dvalishvili vs. O'Malley 2 | fights: 13
+ufc_317.json | UFC 317: Topuria vs. Oliveira | fights: 11
+ufc_318.json | UFC 318: Holloway vs. Poirier 3 | fights: 14
+ufc_319.json | UFC 319: Du Plessis vs. Chimaev | fights: 12
+ufc_320.json | UFC 320: Ankalaev vs. Pereira 2 | fights: 14
+ufc_321.json | UFC 321: Aspinall vs. Gane | fights: 13
+ufc_322.json | VeChain UFC 322: Della Maddalena vs. Makhachev | fights: 14
+ufc_323.json | UFC 323: Dvalishvili vs. Yan 2 | fights: 14
+ufc_324.json | UFC 324: Gaethje vs. Pimblett | fights: 11
+ufc_325.json | UFC 325: Volkanovski vs. Lopes 2 | fights: 13
+ufc_326.json | UFC 326: Holloway vs. Oliveira | fights: 12
+ufc_327.json | UFC 327: Prochazka vs. Ulberg | fights: 0
+ufc_328.json | UFC 328: Chimaev vs. Strickland | fights: 0

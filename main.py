@@ -222,7 +222,8 @@ def teste():
 
 
 def main():
-    connection()
+    scrape_events()
+    log_fight_counts()
 
 
 if __name__ == "__main__":
